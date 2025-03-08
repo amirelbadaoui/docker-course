@@ -1,6 +1,6 @@
 # Docker Learning Repository 🚀
 
-This repository serves as a documentation hub for my journey into **Docker**. I'm following the [Learn Docker in 1 Hour](https://www.youtube.com/watch?v=GFgJkfScVNU&ab_channel=JavaScriptMastery) course by JavaScript Mastery. The goal is to understand Docker fundamentals, containerization, and practical applications.
+This repository serves as a documentation hub for my journey into **Docker**. I'm following the [Learn Docker in 1 Hour](https://www.youtube.com/watch?v=GFgJkfScVNU&ab_channel=JavaScriptMastery) course by JavaScript Mastery. The goal is to understand Docker fundamentals, containerization, and practical applications. Currently @ 44:15
 
 ## 📌 Topics Covered
 1. **Introduction to Docker**
